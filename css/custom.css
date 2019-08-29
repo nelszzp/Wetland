@@ -291,7 +291,7 @@ body.nav-open .mobile-logo{
   transform: translateX(-100vw);
 }
 body.nav-open .mobile-toggle{
-    background-image: url(../images/close.svg);
+    background-image: url('https://raw.githubusercontent.com/nelszzp/nelszzp.github.io/master/images/close.svg');
     background-position-x: 5px;
 }
 .mobile-nav li{
